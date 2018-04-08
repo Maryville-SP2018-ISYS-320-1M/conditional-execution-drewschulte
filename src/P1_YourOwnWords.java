@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+
+	Name(s):drew schulte
+	Date: april 6
 */
 
 /*  EXAMPLE
@@ -17,34 +18,38 @@ x < y
 
 /* 1. 
 -- Your conditional expression
-
+y > 0 
 
 -- Your test values for x, y, z and do you expect true or false?
-
+1, 2, 0 -> TRUE
+-2, 1, 0 -> FALSE
 */
 
 /* 2. 
 -- Your conditional expression
-
+x != 0
 
 -- Your test values for x, y, z and do you expect true or false?
-
+1, 2, 0 -> TRUE
+2, 1, 0 -> TRUE
 */
 
 /* 3.  
 -- Your conditional expression
-
+y * z == +1 
 
 -- Your test values for x, y, z and do you expect true or false?
-
+1, 2, 0 -> TRUE
+2, 1, 0 -> FALSE
 */
 
 /* 4.  
 -- Your conditional expression
-
+y>= + (z+x)
 
 -- Your test values for x, y, z and do you expect true or false?
-
+1, 2, 0 -> TRUE
+2, 1, 0 -> FALSE
 */
 
 public class P1_YourOwnWords {
